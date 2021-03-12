@@ -18,7 +18,7 @@ macam-macam fungsi git
 * git branch. : melihat dan membuat branch.
 * git branch -d [nama branch] : menghapus branch
 
-## git merge
+### git merge
 * git merge : menggabung branch
 * git --merged : mengecek branch yang sudah tergabung
 
