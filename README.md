@@ -10,5 +10,6 @@ macam-macam fungsi git
 * git branch
 * git help
 * git log. contoh: git log -3 (melihat 3 log terakhir)
+* git checkout. contoh : git checkout [5 digit hash] -- [file]
 
 ..lain-lain
