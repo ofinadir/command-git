@@ -19,6 +19,9 @@ macam-macam fungsi git
 * git branch -d [nama branch] : menghapus branch
 
 ### git merge
+terdiri dari 2 jenis merge yaitu:
+1. fast forward merge
+2. three way merge 'recursive' : apabila tidak ada direct path, istilaha lain ~merge commit, merge sambil commit
 * git merge : menggabung branch
 * git --merged : mengecek branch yang sudah tergabung
 
