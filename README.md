@@ -1,4 +1,5 @@
 # Git
+macam-macam fungsi git
 
 ## Git Command
 ### git init
