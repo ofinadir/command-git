@@ -9,5 +9,6 @@ macam-macam fungsi git
 * git config
 * git branch
 * git help
-* git log
+* git log. contoh: git log -3 (melihat 3 log terakhir)
+
 ..lain-lain
